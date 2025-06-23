@@ -23,7 +23,7 @@ Language	Python
 
 
 # 1. Clone the repository
-git clone https://github.com/yourusername/legalgpt.git
+git clone https://github.com/bhumitkalathiya/legalgpt.git
 cd legalgpt
 
 # 2. Create virtual environment
